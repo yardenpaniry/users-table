@@ -1,6 +1,10 @@
 {
   "name": "userslibrary",
   "version": "0.0.0",
+  "engines": {
+    "npm": "8.6.0",
+    "node": "17.8.0"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
