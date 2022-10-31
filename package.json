@@ -2,8 +2,8 @@
   "name": "userslibrary",
   "version": "0.0.0",
   "engines": {
-    "npm": "8.6.0",
-    "node": "17.8.0"
+    "npm": "8.x",
+    "node": "17.x"
   },
   "scripts": {
     "ng": "ng",
